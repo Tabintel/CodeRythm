@@ -18,7 +18,7 @@ As a JavaScript developer, having a strong foundation in the language's key feat
     
 * Template literals
     
-* Object restructuring
+* Object destructuring
     
 * Array methods
     
@@ -301,7 +301,7 @@ Here are the key takeaways from this article:
 
 If you want to take your JavaScript skills to the next level, I encourage you to keep practising and experimenting with these techniques.
 
-There are resources available online, such as MDN Web Docs, [JavaScript info](https://javascript.info/) and [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript?g_network=g&g_productchannel=&g_adid=624951457627&g_locinterest=&g_keyword=codecademy%20javascript&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-320553373431&g_ifcreative=&g_campaign=account&g_locphysical=1029756&g_adgroupid=128133970508&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=1726903838&g_ifproduct=&utm_id=t_kwd-320553373431:ag_128133970508:cp_1726903838:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=codecademy%20javascript&utm_campaign=INTL_Brand_Exact&utm_content=624951457627&g_adtype=search&g_acctid=243-039-7011&gclid=CjwKCAjwge2iBhBBEiwAfXDBR4QIYtUOW5cy1VaPOZRYm3AbtciWnjs69PhhJ8d-az2tLMJjP2Ql1hoCIXYQAvD_BwE), that can help you deepen your understanding of JavaScript and its ecosystem.
+There are resources available online, such as MDN Web Docs, [JavaScript info](https://javascript.info/) and [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript?g_network=g&g_productchannel=&g_adid=624951457627&g_locinterest=&g_keyword=codecademy%20javascript&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-320553373431&g_ifcreative=&g_campaign=account&g_locphysical=1029756&g_adgroupid=128133970508&g_productid=&g_source=%7Bsourceid%7D&g_merchantid=&g_placement=&g_partition=&g_campaignid=1726903838&g_ifproduct=&utm_id=t_kwd-320553373431:ag_128133970508:cp_1726903838:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=codecademy%20javascript&utm_campaign=INTL_Brand_Exact&utm_content=624951457627&g_adtype=search&g_acctid=243-039-7011&gclid=CjwKCAjwge2iBhBBEiwAfXDBR4QIYtUOW5cy1VaPOZRYm3AbtciWnjs69PhhJ8d-az2tLMJjP2Ql1hoCIXYQAvD_BwE), that can help you deepen your understanding of JavaScript and its ecosystem.
 
 Practice, build, and keep on learning - that is the way to go.
 
