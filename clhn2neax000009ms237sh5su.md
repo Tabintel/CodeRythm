@@ -13,7 +13,7 @@ Hola, thanks for reading!
 
 In the end, this app might look like it was designed in the Stone Age. But don't worry, we're focusing more on functionality here than aesthetics. You can always improve the UI later on.
 
-A screenshot of the to-do-app 🔽
+A screenshot of the [to-do-app](https://tabintel.github.io/to-do-app.js/) 🔽
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684046463336/16d9870c-d434-47b5-8da2-8b737b27cacf.jpeg align="center")
 
