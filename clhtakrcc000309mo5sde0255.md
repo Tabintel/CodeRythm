@@ -109,3 +109,7 @@ Remember, practice is key. Keep experimenting, building projects, and exploring 
 
 // Happy coding! 💫🚀
 ```
+
+Thanks a latte for reading this tutorial! ☕️ I hope you found it egg-ci-tingly helpful! 🥚 If you have any questions or comments, donut hesitate to connect with me on [**LinkedIn**](https://www.linkedin.com/in/ekemini-samuel-45062a1b4/) or [**Twitter**](https://twitter.com/realEkemini).
+
+And if you really enjoyed this tutorial, you can [**buy me a coffee**](https://www.buymeacoffee.com/sekemini) and I'll be over the moon! 🌙
