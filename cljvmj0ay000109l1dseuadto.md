@@ -78,10 +78,10 @@ Yay!😎- I turn 23 today. I’ve been doing some reflection and listed 23 thing
     
 19. #### Family - Friends - Family - we all come from family, along the way we make friends, and with some of those friends, we create families. Choose your friends. Take care of yourself, provide for and protect your family.
     
-20. Be a force for good
+20. **Be a force for good**
     
-21. Think long-term, break down your goals into short-term ones, and take action now.
+21. **Think long-term, break down your goals into short-term ones, and take action now.**
     
-22. Don't overthink
+22. **Don't overthink**
     
-23. You turn 23 once - make the best of it. 🙂
+23. **You turn 23 once - make the best of it.** 🙂
