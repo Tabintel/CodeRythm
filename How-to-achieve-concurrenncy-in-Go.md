@@ -1,3 +1,4 @@
+![](https://hackmd.io/_uploads/B1jqH7lo3.png)
 
 __Keywords:__ *Go, Concurrency, Programming*
 
